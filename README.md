@@ -1,2 +1,2 @@
-# NEAT_C-
+# NEAT
 NeuroEvolution of Augmenting Topologies
